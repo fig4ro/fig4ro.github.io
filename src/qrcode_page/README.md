@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -69,5 +68,5 @@ Needs to work more with position and learn how to read dimensions, so i can auto
 
 ## Author
 
-- Website - [Douglas Figueiro](https://github.com/fig4ro)
+- Website - [Douglas Figueiro](https://fig4ro.github.io/)
 - Frontend Mentor - [@Douglas](https://www.frontendmentor.io/profile/Douglas)
