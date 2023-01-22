@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+ul {
+    list-style: none;           /* Retirar preset */
+}
+
+a {
+    text-decoration: none;      /* Retirar o underline e azul de links */
+}
